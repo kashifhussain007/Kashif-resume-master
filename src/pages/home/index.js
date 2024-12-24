@@ -68,7 +68,7 @@ export const Home = () => {
 
                 <div className='intro_btn-action pb-5'>
                   <Link
-                    to='https://www.fiverr.com/farooq716'
+                    to='#'
                     target='_blank'
                     className='text_2 my-2 mx-0'
                   >
@@ -91,6 +91,14 @@ export const Home = () => {
                       <div className='ring three'></div>
                     </div>
                   </Link>
+                   <Link to='https://drive.google.com/file/d/1gP5Dflao685hIRj_2GitQOIR2oY71fCq/view?usp=sharing' target='_blank' className='text_2 my-2 mx-0'>
+                   <div id='button_h' className='ac_btn btn'>
+                      Resume
+                      <div className='ring one'></div>
+                      <div className='ring two'></div>
+                      <div className='ring three'></div>
+                    </div>
+                   </Link>
                 </div>
               </div>
             </div>

@@ -54,10 +54,10 @@ const Headermain = () => {
                     </Link>
                   </li>
                   <li className='menu_item'>
-                    <Link to='https://res.cloudinary.com/farooq-storage/image/upload/v1720408209/Muhammad_Farooq_Resume_nsbiww.pdf' target='_blank' className='my-3'>
+                    <Link to='https://drive.google.com/file/d/1gP5Dflao685hIRj_2GitQOIR2oY71fCq/view?usp=sharing' target='_blank' className='my-3'>
                       Resume
                     </Link>
-                  </li>
+                 </li>
                 </ul>
               </div>
             </div>
