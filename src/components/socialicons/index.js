@@ -1,5 +1,5 @@
 import React from 'react';
-import { FaGithub, FaInstagram, FaLinkedin } from 'react-icons/fa';
+import { FaGithub, FaInstagram, FaLinkedin, FaBehance } from 'react-icons/fa';
 import { socialprofils } from '../../content_option';
 import './style.css';
 
@@ -21,10 +21,10 @@ export const Socialicons = () => {
             </a>
           </li>
         )}
-        {socialprofils.instagram && (
+        {socialprofils.behance && (
           <li>
-            <a href={socialprofils.instagram} target="_blank" rel="noreferrer">
-              <FaInstagram /> Intsgram
+            <a href={socialprofils.behance} target="_blank" rel="noreferrer">
+              <FaBehance /> Behance
             </a>
           </li>
         )}

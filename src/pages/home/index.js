@@ -79,26 +79,13 @@ export const Home = () => {
                       <div className='ring three'></div>
                     </div>
                   </Link>
-
                   <Link
-                    to='https://www.upwork.com/freelancers/~0101c00d436731f83a'
+                    to='https://www.upwork.com/freelancers/~019e7d3cd427d440a1?mp_source=share'
                     target='_blank'
                     className='text_2 my-2 mx-0'
                   >
                     <div id='button_h' className='ac_btn btn'>
                       Upwork
-                      <div className='ring one'></div>
-                      <div className='ring two'></div>
-                      <div className='ring three'></div>
-                    </div>
-                  </Link>
-                  <Link
-                    to='https://topmate.io/muhammad_farooq'
-                    target='_blank'
-                    className='text_2 my-2 mx-0'
-                  >
-                    <div id='button_h' className='ac_btn btn'>
-                      Let's Connect on Topmate
                       <div className='ring one'></div>
                       <div className='ring two'></div>
                       <div className='ring three'></div>
@@ -111,7 +98,7 @@ export const Home = () => {
           <div className='h_bg-image flex justify-center order-1 order-lg-1'>
             <img
               src={introdata.your_img_url}
-              alt='Muhammad Farooq'
+              alt='Kashif Hussain'
               height={325}
               width={325}
               className='rounded-full'
@@ -123,7 +110,7 @@ export const Home = () => {
           <div className='h_bg-image flex justify-center order-1 order-lg-1'>
             <img
               src={introdata.your_img_url}
-              alt='Muhammad Farooq'
+              alt='Kashif Hussain'
               width='auto'
               className='rounded-full h-[250px]'
             />
@@ -179,7 +166,7 @@ export const Home = () => {
                     </div>
                   </Link>
                   <Link
-                    to='https://www.fiverr.com/farooq716'
+                    to='#'
                     target='_blank'
                     className='text_2 my-2 mx-0'
                   >
@@ -192,24 +179,12 @@ export const Home = () => {
                   </Link>
 
                   <Link
-                    to='https://www.upwork.com/freelancers/~0101c00d436731f83a'
+                    to='https://www.upwork.com/freelancers/~019e7d3cd427d440a1?mp_source=share'
                     target='_blank'
                     className='text_2 my-2 mx-0'
                   >
                     <div id='button_h' className='ac_btn btn'>
                       Upwork
-                      <div className='ring one'></div>
-                      <div className='ring two'></div>
-                      <div className='ring three'></div>
-                    </div>
-                  </Link>
-                  <Link
-                    to='https://topmate.io/muhammad_farooq'
-                    target='_blank'
-                    className='text_2 my-2 mx-0'
-                  >
-                    <div id='button_h' className='ac_btn btn'>
-                      Let's Connect on Topmate
                       <div className='ring one'></div>
                       <div className='ring two'></div>
                       <div className='ring three'></div>
