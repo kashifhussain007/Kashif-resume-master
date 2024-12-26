@@ -20,8 +20,7 @@ const introdata = {
   description: `I am a passionate front-end developer with a strong focus on delivering visually appealing and user-friendly interfaces. My expertise spans across design tools like Photoshop for creating intuitive layouts, and cutting-edge technologies such as HTML, CSS, Bootstrap, JavaScript, React JS, and Next JS. I specialize in state management using React-Redux-Saga to build scalable and maintainable applications.
   I have extensive experience working with international-level APIs, including Sabre, Amadeus, AirSial, and Serene, enabling seamless integration and advanced functionality for web-based platforms.
   From conceptualization to deployment, I thrive in collaborative environments, working closely with product managers, designers, and developers to bring ideas to life.`,
-  your_img_url:
-  '/kashif_hussain.png',  
+  your_img_url:'/kashif_hussain.png',  
   technologies: [
     ['HTML + CSS','Bootstrap', 'JavaScript', 'JQuery'],
     ['React.js', 'Next.js', 'REACT_REDUX_SAGA', 'Nest.js'],
